@@ -84,6 +84,9 @@ body
 	font-weight:bold;
 
 }
+#heading-con  a{
+	text-decoration: none;
+}
 /* small description*/
 #heading-con h5
 {
