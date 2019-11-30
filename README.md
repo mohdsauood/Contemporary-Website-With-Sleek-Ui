@@ -1,7 +1,7 @@
 # ESCIVEX
 A Contemporary Website with a Sleek Ui.The creative design focuses on enhanced Visuals.
 
-![Website Image]
+![Website Image](https://github.com/mohdsauood/Contemporary-Website-With-Sleek-Ui/blob/master/images/design.PNG)
 
 **Link to project:** 
 
