@@ -9,6 +9,7 @@
 body
 {
 background-color: black;
+overflow-x: hidden;
 }
 #main-div
 {
@@ -97,8 +98,8 @@ background-color: black;
 
 	position: absolute;
 	top: 15px;
-	left: 30%;
-	width:100%;
+	left: 40%;
+	width:70%;
 	margin-top:30px;
 
 
@@ -150,7 +151,7 @@ background-color: black;
 {
 	color: white;
 	position: absolute;
-	left: 10%;
+	left: 20%;
 	margin-top: 50px;
 	font-size:80px;
 }
@@ -160,7 +161,7 @@ background-color: black;
 	width: 9%;
 	height: 70px;
 
-	left:10%;
+	left:20%;
 	top: 970px;
 	position: absolute;
 
@@ -185,7 +186,7 @@ background-color: black;
 	vertical-align: middle;
 	border-right: 20px solid #8BC4F9;
 	display: table-cell;
-	left:45%;
+	left:65%;
 	top: 250px;
 	text-transform: uppercase;
 
@@ -224,7 +225,7 @@ background-color: black;
 	vertical-align: middle;
 	border-right: 18px solid #75FDFF;
 	display: table-cell;
-	left:46%;
+	left:66%;
 	top: 110px;
 	text-transform: uppercase;
 }
@@ -260,7 +261,7 @@ background-color: black;
 	vertical-align: middle;
 	border-right: 30px solid #526FFF;
 	display: table-cell;
-	left:20%;
+	left:40%;
 	top: 450px;
 	text-transform: uppercase;
 }
@@ -318,7 +319,7 @@ hr {
 	color: white;
 	font-size: 75px;
 	top:500px;
-	left:10%;
+	left:30%;
 	font-weight: bolder;
 	width: 30%;
 
@@ -332,7 +333,7 @@ hr {
 
 	position: relative;
 	margin-top:550px;
-	left: 10%;
+	left: 30%;
 }
 /*section 1 of multicloud security*/
 .box1
@@ -341,7 +342,7 @@ hr {
 	background-color:#000E66;
 	float: left;
 	height: 100%;
-	width: 30%;
+	width: 20%;
 }
 
 .box1 img
@@ -358,7 +359,7 @@ hr {
 	background-color: #000B70;
 	float: left;
 	height: 100%;
-	width: 60%;
+	width: 48%;
 }
 /*three top to bottom divs in 2nd section*/
 #box2-div1
@@ -374,7 +375,7 @@ hr {
 #box2-div2
 {
 
-	padding:20px 30px 30px 20px;
+	padding:20px 30px 0px 20px;
 	color:#0CA3E9;
 	font-size: 28px;
 	text-align: center;
@@ -388,9 +389,9 @@ hr {
 	text-align: center;
 	color: white;
 	font-size: 24px;
-	width: 140px;
+	width: 30%;
 	border-radius: 48px;
-	top:20px;
+	top:10px;
 	left: 110px;
 	padding:5px 10px 5px 10px;
 
@@ -416,8 +417,8 @@ hr {
 }
 #b3-img-con img
 {
-	width: 80px;
-	height: 80px;
+	width: 100%;
+	height: 100%;
 }
 
 #box3-div1
@@ -436,7 +437,7 @@ hr {
 {
 	top: 25px;
 	height:250px;
-	width:903px;
+	width:90%;
 	position: relative;
 	margin-top:550px;
 	left: 1px;
@@ -461,7 +462,7 @@ hr {
 #sixbox2-div2
 {
 
-	padding:20px 30px 30px 20px;
+	padding:20px 60px 0px 20px;
 	color:#0CA3E9;
 	font-size: 28px;
 	text-align: center;
@@ -477,9 +478,9 @@ hr {
 	font-size: 24px;
 	width: 140px;
 	border-radius: 48px;
-	top:20px;
+	top:0px;
 	left: 110px;
-	padding:5px 10px 5px 10px;
+	padding:0px 10px 5px 10px;
 
 
 }
@@ -514,8 +515,9 @@ hr {
 {
 	background: rgb(0,255,252);
 background: linear-gradient(180deg, rgba(90,246,244,1) 15%, rgba(0,11,103,1) 46%, rgba(0,0,0,1) 83%);
-	width: 1900px;
+	width: 100%;
 	height: 480px;
+	overflow: hidden;
 }
 
 /* footer starts */
@@ -550,7 +552,7 @@ background: linear-gradient(180deg, rgba(90,246,244,1) 15%, rgba(0,11,103,1) 46%
 	position: relative;
 	top: 150px;
 	left: 10%;
-	width: 1100px;
+	width: 50%;
 
 
 
@@ -563,7 +565,7 @@ background: linear-gradient(180deg, rgba(90,246,244,1) 15%, rgba(0,11,103,1) 46%
 	color: #5AF6F4;
 	text-shadow:1px 1px white;
 	font-size:27px;
-	padding:0px 135px;
+	padding:0px 7%;
 
 }
 
@@ -579,9 +581,9 @@ background: linear-gradient(180deg, rgba(90,246,244,1) 15%, rgba(0,11,103,1) 46%
 #low-footer
 {
 	position: relative;
-	width:800px;
+	width:50%;
 	height:75px;
-	left: 240px;
+	left: 10%;
 	top:190px;
 
 
@@ -591,7 +593,7 @@ background: linear-gradient(180deg, rgba(90,246,244,1) 15%, rgba(0,11,103,1) 46%
 #lf-box1
 {
 	height: 35px;
-	width:170px;
+	width:26%;
 	border:2px solid  #1A1A1A;
 	border-radius: 48px;
 	float: left;
@@ -603,13 +605,13 @@ background: linear-gradient(180deg, rgba(90,246,244,1) 15%, rgba(0,11,103,1) 46%
 	text-align: center;
 	font-size: 24px;
 	padding-top: 10px;
-	margin-left:90px;
+	margin-left:15%;
 }
 
 #lf-box2
 {
 	height: 35px;
-	width:170px;
+	width:26%;
 	border:2px solid #1A1A1A;
 	border-radius: 48px;
 	float: left;
@@ -621,17 +623,17 @@ background: linear-gradient(180deg, rgba(90,246,244,1) 15%, rgba(0,11,103,1) 46%
 	text-align: center;
 	font-size: 24px;
 	padding-top: 10px;
-	margin-left: 160px;
+	margin-left:15%;
 }
 
 #br-foot
 {
 	position: relative;
 	height: 35px;
-	width:400px;
+	width:20%;
 
 	top:125px;
-	left: 1350px;
+	left:65% ;
 	color: #003699;
 	font-size: 24px;
 }
@@ -691,9 +693,9 @@ background: linear-gradient(180deg, rgba(90,246,244,1) 15%, rgba(0,11,103,1) 46%
 {
 	position: relative;
 
-	width: 500px;
+	width: 40%;
 	height: 80px;
-	left:1300px;
+	left:70%;
 	top:105px;
 }
 
@@ -704,7 +706,8 @@ background: linear-gradient(180deg, rgba(90,246,244,1) 15%, rgba(0,11,103,1) 46%
 
 	float:left;
 	height: 70px;
-	width: 120px;
+	width: 7%;
+	padding: 0px 2%;
 }
 .icon-box img,svg
 {
