@@ -13,5 +13,5 @@ I wanted to create a Strong Desktop Design with a futuristic appeal to it .With 
 
 ## Lessons Learned:
 
-Any Complex Modern Web Design could be created using Only Css Positioning.My understanding of Relative and Absolute positions increased with creating an entire website using these positions.Implenting Gradient Backgrounds was interesting to Learn.
+Any Complex Modern Web Design could be created using Only Css Positions.My understanding of element's offset behaviour and overflowing content increased with creating an entire website using these positions.Implenting Gradient Backgrounds was interesting to Learn.
 
