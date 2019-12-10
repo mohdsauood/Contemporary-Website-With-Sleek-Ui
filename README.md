@@ -9,7 +9,7 @@ A Contemporary Website with a Sleek Ui.The creative design focuses on enhanced V
 
 **Tech used:** HTML, CSS, JavaScript
 
-I wanted to create a Strong Desktop Design with a futuristic appeal to it .With the introduction of Css grid it has become easy to create a responsive website.To make it challening i wanted to create the design also suitable it for Internet Explorer 11.So i avoided use Css Grid or any Frameworks as Internet Explorer 11 Doesnt Support it and used Plain Css Positioning to create an Interactive Webdesign.For the Mobile ViewPort i used javascript to create a menu button to display the navigation menu.The Design is Sleek and elegant which makes the brand/product stand out.
+I wanted to create a Strong Desktop Design with a futuristic appeal to it .With the introduction of Css grid it has become easy to create a responsive website.To make it challenging i wanted to create the design also suitable it for Internet Explorer 11.So i avoided use Css Grid or any Frameworks as Internet Explorer 11 Doesnt Support it and used Plain Css Positioning to create an Interactive Webdesign.For the Mobile ViewPort i used javascript to create a menu button to display the navigation menu.The Design is Sleek and elegant which makes the brand/product stand out.
 
 ## Lessons Learned:
 
